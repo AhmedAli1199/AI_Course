@@ -1,0 +1,2 @@
+Robot 1: Start (314, 70) End (190, 34)
+Robot 2: Start (307, 271) End (28, 89)
